@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    color: tomato;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.card{
+    width: 400px;
+    height: 150px;
+    border: 1px solid red;
+    border-radius: 15px;
+    box-shadow: 15px 0 15px rgb(217, 243, 252);
+    margin-left: 400px;
+    margin-top: 80px;
+    justify-content: space-evenly;
+    
+   
+    
+}
+
+.card .email{
+    color: grey;
+    font-weight: bold;
+    font-size: 15px;
+    opacity:0.5;
+    margin-left: 25px;
+    width: 220px;
+    height: 32px;
+    border: none;
+    border-bottom: 2px solid grey;
+}
+.mail{
+    display: inline;
+}
+.email{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.btn{
+    background-color: tomato;
+    color: white;
+    border: 1px solid tomato;
+    padding:8px;
+    border-radius: 5px;
+
+}
+.end{
+    background-color: tomato;
+    margin-top: 50px;
+    height: 40vh;
+    display: flex;
+}
+.div1{
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 50px;
+    
+}
+.imgs{
+    margin-top: 70px;
+    display: inline;
+}
+.div2{
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 50px;
+    
+}
